@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imblearn
+nltk
+wordcloud
+flask
+joblib
+whisper
+openai-whisper
